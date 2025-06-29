@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a final-year BA Psychology and Computing student at University College Cork. I’m a bit of a tech explorer—I love jumping into new frameworks and spinning up random mini projects whenever inspiration strikes. For my final year project, I made a game in Godot (because why not?). I dabble in a bunch of languages and tools like JavaScript, React, Vue, HTML, CSS, Python, Pandas, and whatever else catches my curiosity.
+Hey there! I'm a BA Psychology and Computing Gratuate from University College Cork. I’m a bit of a tech explorer—I love jumping into new frameworks and spinning up random mini projects whenever inspiration strikes. For my final year project, I made a game in Godot (because why not?). I dabble in a bunch of languages and tools like JavaScript, React, Vue, HTML, CSS, Python, Pandas, and whatever else catches my curiosity.
 
 
 ## 🌐 Socials:
